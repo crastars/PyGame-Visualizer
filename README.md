@@ -1,5 +1,5 @@
 # PyGame-Visualizer
-A python-based application tailored for processing and analyzing telecommunications data. The implementation is private and available upon request.
+A Python-based application tailored for processing and analyzing telecommunications data. The implementation is private and available upon request.
 
 This project, developed for a course at the university, presents a sophisticated Python-based application tailored for processing and analyzing telecommunications data. Key highlights of this project include:
 
